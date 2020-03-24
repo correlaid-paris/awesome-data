@@ -20,6 +20,6 @@ Parameters
 
 * World https://www.epa.gov/outdoor-air-quality-data/download-daily-data
 * France https://www.airparif.asso.fr/en/#
-* UK https://www.gov.uk/government/collections/air-quality-and-emissions-statistics
+* UK https://www.gov.uk/government/collections/air-quality-and-emissions-statistics and https://naei.beis.gov.uk/data/data-selector
 
 
